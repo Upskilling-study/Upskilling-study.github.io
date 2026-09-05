@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+<title id="title">Tutor photo placeholder</title><desc id="desc">Placeholder indicating where a real tutor photo should be added.</desc>
+<rect width="600" height="440" fill="#eef4ff"/>
+<circle cx="300" cy="165" r="76" fill="#bfd1f5"/>
+<path d="M170 390c10-100 58-151 130-151s120 51 130 151z" fill="#bfd1f5"/>
+<rect x="160" y="382" width="280" height="40" rx="20" fill="#16324f"/>
+<text x="300" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Add tutor photo</text>
+</svg>

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a3104da6-ebac-4753-ac3c-f4ed6960dc8f",
+    "tutor": "math-1",
+    "slot": "demo-math-1-tue-1600",
+    "parentName": "Miguelo",
+    "parentEmail": "miguel@gmail.com",
+    "studentFirstName": "Danny",
+    "grade": "7th grade",
+    "subject": "Math — Algebra I",
+    "format": "Online",
+    "slotLabel": "Tuesday · 4:00 PM",
+    "bookedAt": "2026-09-05T02:57:17.520619Z"
+  },
+  {
+    "id": "6e547e79-9a34-4751-868f-f47b41f46481",
+    "tutor": "math-1",
+    "slot": "demo-math-1-thu-1730",
+    "parentName": "Miguelo",
+    "parentEmail": "miguel@gmail.com",
+    "studentFirstName": "Danny",
+    "grade": "5th grade",
+    "subject": "Math — Middle School",
+    "format": "In person",
+    "slotLabel": "Thursday · 5:30 PM",
+    "bookedAt": "2026-09-05T03:02:39.361758Z"
+  }
+]
